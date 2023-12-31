@@ -1,7 +1,7 @@
 import { Inter } from 'next/font/google'
 import './globals.css'
 import Navbar from './components/Navbar'
-import { ThirdwebProvider } from "./components/ThirdwebProvider";
+import { ThirdwebProvider } from "./components/ThirdWebProvider";
 import { Sepolia } from "@thirdweb-dev/chains";
 
 
